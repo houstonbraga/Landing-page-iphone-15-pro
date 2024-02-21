@@ -211,7 +211,9 @@ body {
     transition: 0.2s ease-in-out;
 }
 
-
+.photos-div img:hover {
+    filter: grayscale(1);
+}
 
 
 
