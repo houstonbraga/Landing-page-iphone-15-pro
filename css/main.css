@@ -130,6 +130,10 @@ body {
     max-width: 305px;
 }
 
+.main-info a{
+    color: #000000;
+}
+
 /*DESTAQUES*/
 
 .destaques {
